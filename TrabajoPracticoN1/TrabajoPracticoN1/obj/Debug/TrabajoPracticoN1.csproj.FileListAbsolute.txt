@@ -1,0 +1,10 @@
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\TrabajoPracticoN1.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\TrabajoPracticoN1.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\TrabajoPracticoN1\TrabajoPracticoN1\bin\Debug\TrabajoPracticoN1.exe.config
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\TrabajoPracticoN1\TrabajoPracticoN1\bin\Debug\TrabajoPracticoN1.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\TrabajoPracticoN1\TrabajoPracticoN1\bin\Debug\TrabajoPracticoN1.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\TrabajoPracticoN1\TrabajoPracticoN1\bin\Debug\Entidades.dll
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\TrabajoPracticoN1\TrabajoPracticoN1\bin\Debug\Entidades.pdb
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\TrabajoPracticoN1.csproj.CopyComplete
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\TrabajoPracticoN1.exe
+C:\Users\Polaco\Desktop\Programacion - Laboratorio II TUP\TrabajoPracticoN1\TrabajoPracticoN1\obj\Debug\TrabajoPracticoN1.pdb
