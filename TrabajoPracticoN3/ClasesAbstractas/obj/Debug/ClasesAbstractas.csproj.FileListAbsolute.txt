@@ -1,0 +1,9 @@
+C:\Users\Polaco\Desktop\TP3\Prueba\Fernandez.Maximiliano.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\Polaco\Desktop\TP3\Prueba\Fernandez.Maximiliano.2C.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Polaco\Desktop\TP3\Prueba\Fernandez.Maximiliano.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Polaco\Desktop\TP3\Prueba\Fernandez.Maximiliano.2C.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Polaco\Desktop\TP3\Prueba\Fernandez.Maximiliano.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\TP3\Prueba\Fernandez.Maximiliano.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\TP3\Prueba\Fernandez.Maximiliano.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\Users\Polaco\Desktop\TP3\Prueba\Fernandez.Maximiliano.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\Polaco\Desktop\TP3\Prueba\Fernandez.Maximiliano.2C.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
