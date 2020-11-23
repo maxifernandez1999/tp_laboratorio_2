@@ -1,0 +1,6 @@
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Excepciones\obj\Debug\Excepciones.pdb

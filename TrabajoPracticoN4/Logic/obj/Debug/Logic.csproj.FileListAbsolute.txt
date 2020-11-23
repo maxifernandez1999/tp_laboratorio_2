@@ -1,0 +1,15 @@
+C:\Users\Polaco\Desktop\TP3\Prueba\Maximiliano.Fernandez.TP4\Logic\bin\Debug\Logic.dll
+C:\Users\Polaco\Desktop\TP3\Prueba\Maximiliano.Fernandez.TP4\Logic\bin\Debug\Logic.pdb
+C:\Users\Polaco\Desktop\TP3\Prueba\Maximiliano.Fernandez.TP4\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\TP3\Prueba\Maximiliano.Fernandez.TP4\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\TP3\Prueba\Maximiliano.Fernandez.TP4\Logic\obj\Debug\Logic.dll
+C:\Users\Polaco\Desktop\TP3\Prueba\Maximiliano.Fernandez.TP4\Logic\obj\Debug\Logic.pdb
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Logic\obj\Debug\Logic.dll
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Logic\obj\Debug\Logic.pdb
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Logic\bin\Debug\Logic.dll
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Logic\bin\Debug\Logic.pdb
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Logic\bin\Debug\Excepciones.dll
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Logic\bin\Debug\Excepciones.pdb
+C:\Users\Polaco\Desktop\TP4\Prueba\Maximiliano.Fernandez.TP4\Logic\obj\Debug\Logic.csproj.CopyComplete
